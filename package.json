@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/A-ghil/api-rest-petitto/issues"
   },
-  "homepage": "https://github.com/A-ghil/api-rest-petitto#readme"
+  "homepage": "https://github.com/A-ghil/api-rest-petitto#readme",
+  "dependencies": {}
 }
