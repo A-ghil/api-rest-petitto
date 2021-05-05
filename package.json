@@ -16,5 +16,8 @@
     "url": "https://github.com/A-ghil/api-rest-petitto/issues"
   },
   "homepage": "https://github.com/A-ghil/api-rest-petitto#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2"
+  }
 }
