@@ -1,23 +1,22 @@
 {
-  "name": "api-rest-petitto",
+  "name": "Projeto",
   "version": "1.0.0",
-  "description": "api rest",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/A-ghil/api-rest-petitto.git"
-  },
-  "author": "Equipe-Aghil",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/A-ghil/api-rest-petitto/issues"
-  },
-  "homepage": "https://github.com/A-ghil/api-rest-petitto#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "sequelize-cli": "^6.2.0"
   }
 }
